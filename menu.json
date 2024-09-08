@@ -56,7 +56,7 @@
     "description": "Рис, нори, огурец, курица, сыр сливочный, сыр чеддер.",
     "price": 264,
     "weight": 124,
-    "hit": true,
+    "hit": false,
     "new": true
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "id": 9,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+    "imageUrl": "https://taldom.sushi-beer.ru/.cache/350_0_0_0/model_7820688291666275550.png",
     "title": "Гурман Лагман",
     "description": "Рис, нори, угорь, огурец, сыр, креветки, лосо, краб.",
     "price": 499,
